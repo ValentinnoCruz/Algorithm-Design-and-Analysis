@@ -1,7 +1,7 @@
 ﻿
 
 
-> Written with [StackEdit](# CSE 100: Algorithm Design and Analysis
+# CSE 100: Algorithm Design and Analysis
 Introduction to the design and analysis of computer algorithms. Topics include
 analysis and implementation of algorithms, concepts of algorithm complexity, and various algorithmic design patterns. Course will also cover major algorithms and data structures for searching and sorting, graphs, and some optimization
 techniques.
@@ -14,7 +14,6 @@ foundations to deal with a wide variety of computational problems, and to provid
 
 ## Program Learning Outcomes
 
-<<<<<<< HEAD
  - apply knowledge of computing and mathematics to algorithm design;
  - analyze a problem and identify the algorithm appropriate for its
     solution; 
@@ -37,7 +36,7 @@ foundations to deal with a wide variety of computational problems, and to provid
    the trade-offs involved in design choices;
  - An ability to apply    design and development principles in the
    construction of software    systems of varying complexity.
-=======
+
  1. apply knowledge of computing and mathematics to algorithm design;
  2. analyze a problem and identify the algorithm appropriate for its
     solution; 
@@ -54,7 +53,7 @@ appropriate for its solution;
 computer science theory to the modeling and design of computer-based systems in a way that demonstrates comprehension of the trade-offs involved in design choices; 
 • An ability to apply design and development principles in the construction of
 software systems of varying complexity.
->>>>>>> b9d99f8cfb4ef00eaf0a656edbc205be5499f2e9
+
 
 ## Topics
  - **Asymptotic notation.**
@@ -70,20 +69,3 @@ software systems of varying complexity.
  - **Hash tables with chaining and open addressing**.
  - **Dynamic programming and greedy algorithms.**
  - **Graphs:** definition and relevant problems (path search, flow, minimum spanning trees).
-
-<<<<<<< HEAD
-=======
-• **Asymptotic notation.** 
-• **Divide-and-conquer.** 
-• **Recurrent equations and the master theorem.** 
-• **Space and time complexity.** 
-• **Loop invariants.** 
-• **Linear and binary search.**
-• **Sorting algorithms:** insertion sort, selection sort, mergesort, quicksort, heapsort.
-• **Sorting lower bounds.** 
-• **Heaps.** 
-• **Binary search trees.** 
-• **Hash tables with chaining and open addressing**. 
-• **Dynamic programming and greedy algorithms.**
-• **Graphs:** definition and relevant problems (path search, flow, minimum spanning trees).https://stackedit.io/).
->>>>>>> b9d99f8cfb4ef00eaf0a656edbc205be5499f2e9
